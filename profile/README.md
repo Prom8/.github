@@ -5,17 +5,17 @@
     This project has most of what we can offer and in doing so, we hope to contribute to the community and bring insight on something some of you may be dealing with 
     <br/>
     <br/>
-    <a href="https://github.comThendo-T/Knowlege-and-template-pack"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/prom8/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   
-    <a href="https://github.com/Thendo-T/Knowlege-and-template-pack/issues">Report Bug</a>
+    <a href="https://github.com/prom8/issues">Report Bug</a>
     .
-    <a href="https://github.com/Thendo-T/Knowlege-and-template-pack/issues">Request Feature</a>
+    <a href="https://github.com/prom8/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Thendo-T/Knowlege-and-template-pack?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Knowlege-and-template-pack) ![License](https://img.shields.io/github/license/Thendo-T/Knowlege-and-template-pack) 
+![Contributors](https://img.shields.io/github/contributors/prom8?color=dark-green) ![Issues](https://img.shields.io/github/issues/prom8) ![License](https://img.shields.io/github/license/prom8) 
 
 ## Table Of Contents
 
@@ -77,7 +77,7 @@ git clone https://github.com/Thendo-T/Knowlege-and-template-pack.git
 
 ## Roadmap
 
-See the [open issues](https://github.com/Thendo-T/Knowlege-and-template-pack/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/prom8/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -97,7 +97,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the Apache License. See [LICENSE](https://github.com/Thendo-T/Knowlege-and-template-pack/blob/main/LICENSE) for more information.
+Distributed under the Apache License. See [LICENSE](https://github.com/prom8/.github/blob/main/LICENSE) for more information.
 
 ## Authors
 
