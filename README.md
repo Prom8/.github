@@ -5,17 +5,17 @@
     This project has most of what we can offer and in doing so, we hope to contribute to the community and bring insight on something some of you may be dealing with 
     <br/>
     <br/>
-    <a href="https://github.comThendo-T/Knowlege-and-template-pack"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Prom8/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   
-    <a href="https://github.com/Thendo-T/Knowlege-and-template-pack/issues">Report Bug</a>
+    <a href="https://github.com/Prom8/issues">Report Bug</a>
     .
-    <a href="https://github.com/Thendo-T/Knowlege-and-template-pack/issues">Request Feature</a>
+    <a href="https://github.com/Prom8/issues">Request Feature</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Thendo-T/Knowlege-and-template-pack?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Knowlege-and-template-pack) ![License](https://img.shields.io/github/license/Thendo-T/Knowlege-and-template-pack) 
+![Contributors](https://img.shields.io/github/contributors/Prom8/.github?color=dark-green) ![Issues](https://img.shields.io/github/issues/Thendo-T/Knowlege-and-template-pack) ![License](https://img.shields.io/github/license/Thendo-T/Knowlege-and-template-pack) 
 
 ## Table Of Contents
 
