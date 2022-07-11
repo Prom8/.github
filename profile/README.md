@@ -7,13 +7,11 @@
     <br/>
     <a href="https://github.com/prom8/"><strong>Explore the docs »</strong></a>
     <br/>
-    <br/>
-  
-    <a href="https://github.com/prom8/issues">Report Bug</a>
-    .
-    <a href="https://github.com/prom8/issues">Request Feature</a>
   </p>
 </p>
+
+- [Report Bug](https://github.com/prom8/.github/issues)
+ - [Request Feature](https://github.com/prom8/.github/issues)
 
 ![Contributors](https://img.shields.io/github/contributors/prom8/.github?color=dark-green) ![Issues](https://img.shields.io/github/issues/prom8/.github) ![License](https://img.shields.io/github/license/prom8/.github) 
 
