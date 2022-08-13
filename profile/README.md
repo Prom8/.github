@@ -44,11 +44,6 @@ Obviously this project will not cover all there is to cover, but we will do our 
 ## Built With
 
 
-
-## Getting Started
-
-
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -58,20 +53,6 @@ This is an example of how to list things you need to use the software and how to
 ```sh
 npm install npm@latest -g
 ```
-
-### Installation
-
-1. ()
-
-2. Clone the repo
-
-```sh
-git clone https://github.com/Thendo-T/Knowlege-and-template-pack.git
-```
-
-
-## Usage
-
 
 ## Roadmap
 
