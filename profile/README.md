@@ -102,10 +102,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/prom8/.githu
 * **Thendo Thovhakale** - *Aspiring Software Dev* - [Thendo Thovhakale](https://github.com/Thendo-T/) - *Created Project Idea*
 * **Andrew** - ** - [Andrew](https://github.com/L1m1tz/) - **
 * **Mishumo** - ** - [Mishumo](https://github.com/Mishumo-Troy-Lumadi/) - **
+* **Tendani** - ** - [Tendani](https://github.com/tendanimasala21/) - **
 
 ## Acknowledgements
 
 * [Thendo Thovhakale](https://github.com/Thendo-T/)
 * [Andrew](https://github.com/L1m1tz/)
 * [Mishumo](https://github.com/Mishumo-Troy-Lumadi/)
+* [Tendani](https://github.com/tendanimasala21/)
 
