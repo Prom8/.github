@@ -1,12 +1,8 @@
 <br/>
-  <h1 align="center">Gain Some Knowledge</h1>
+  <h1 align="center">Gain Some Knowledge | Give Some knowledge</h1>
 
   <p align="center">
-    This project has most of what we can offer and in doing so, we hope to contribute to the community and bring insight on something some of you may be dealing with 
-    <br/>
-    <br/>
-    <a href="https://github.com/prom8/"><strong>Explore the docs »</strong></a>
-    <br/>
+    This is a community in the making, for programmers to share their knowledge with those looking or searching for said knowledge. Or for programmers to learn whatever is available in this community if he/she deems it useful.
   </p>
 </p>
 
@@ -17,8 +13,7 @@
 
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
+* [About the Organisation](#about-the-Organisation)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -41,9 +36,6 @@ Here's why:
 
 Obviously this project will not cover all there is to cover, but we will do our best to bring solutions to even some of the things we have faced and had to go through hours on end to find a solution to.
 
-## Built With
-
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -51,12 +43,12 @@ This is an example of how to list things you need to use the software and how to
 * npm
 
 ```sh
-npm install npm@latest -g
+npm i npm@latest -g
 ```
 
 ## Roadmap
 
-See the [open issues](https://github.com/prom8/issues) for a list of proposed features (and known issues).
+See [open issues](https://github.com/prom8/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
